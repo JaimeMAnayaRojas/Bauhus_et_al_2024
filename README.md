@@ -54,7 +54,7 @@ install.packages("hmmTMB")
 
 5. **Hypotheses testing** After drawing simulations from the model, you can use these simulations together with the script '4_Hypotheses_testing.R' to compare differences in state probabilites between treatments and timepoints.
  
-6. **Hypotheses testing** To display differences in the three states between treatments and timepoints, use the script '5_Create_plots_StateProb.R' to create contrast plots. This script depends on the methods 'state1_plots.R', 'state2_plots.R' and 'state3_plots.R', each one for the respective state. 
+6. **Create contrast plots** To display differences in the three states between treatments and timepoints, use the script '5_Create_plots_StateProb.R' to create contrast plots. This script depends on the methods 'state1_plots.R', 'state2_plots.R' and 'state3_plots.R', each one for the respective state. 
 
 ## Citation
 
