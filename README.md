@@ -60,7 +60,8 @@ install.packages("hmmTMB")
 
 If you use these methods in your research, please cite our paper:
 
-> 
+Bauhus, M.B., Mews, S., Kurtz, J. et al. Tapeworm infection affects sleep-like behavior in three-spined sticklebacks. Sci Rep 14, 23395 (2024). https://doi.org/10.1038/s41598-024-73992-7
+
 
 ## Contributing
 
